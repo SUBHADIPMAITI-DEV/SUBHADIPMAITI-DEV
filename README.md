@@ -8,6 +8,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipmaiti-dev&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipmaiti-dev" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadipmaiti-dev" alt="subhadipmaiti-dev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://img.shields.io/twitter/follow/subhadipinfo?logo=twitter&style=for-the-badge" alt="subhadipinfo" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhadipinfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadipinfo" height="30" width="40" /></a>
@@ -21,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadipmaiti-dev&show_icons=true&locale=en&layout=compact" alt="subhadipmaiti-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadipmaiti-dev&show_icons=true&locale=en" alt="subhadipmaiti-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadipmaiti-dev&" alt="subhadipmaiti-dev" /></p>
