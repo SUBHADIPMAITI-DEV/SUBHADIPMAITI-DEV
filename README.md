@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFD9iBEWfI/0pKtslpHQ74GQ8u1YTJ2vA/watch?utm_content=DAFD9iBEWfI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![MasterHead](https://www.canva.com/design/DAFD9iBEWfI/0pKtslpHQ74GQ8u1YTJ2vA/watch?utm_content=DAFD9iBEWfI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 <h1 align="center">Hi 👋, I'm Subhadip Maiti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
