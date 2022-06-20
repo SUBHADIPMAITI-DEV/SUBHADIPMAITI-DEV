@@ -33,7 +33,7 @@ if __name__ == '__main__':
     me = SubhadipMaiti()
 ```
 <div align="center">
-    <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <a href="https://fb.com/subhadip.maiti.info">
       <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
     </a>
   </div>
