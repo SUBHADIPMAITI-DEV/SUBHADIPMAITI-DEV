@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![cloud hosting](https://user-images.githubusercontent.com/78700974/174653517-b10a627e-ba4d-4959-9a47-961ffec04f55.gif)
+
 
 <h1 align="center">Hi 👋, I'm Subhadip Maiti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
