@@ -1,4 +1,5 @@
-![cloud hosting](https://user-images.githubusercontent.com/78700974/174653517-b10a627e-ba4d-4959-9a47-961ffec04f55.gif)
+![subhadipm](https://user-images.githubusercontent.com/78700974/175819875-49950ac5-6268-4b2f-8511-bb4feb9dbe99.gif)
+
 
 <h1 align="center">Hi 👋, I'm Subhadip Maiti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
