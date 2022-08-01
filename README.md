@@ -51,6 +51,7 @@ if __name__ == '__main__':
 
 <div align="center">
     <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+    <img  src="![github-contribution-grid-snake](https://user-images.githubusercontent.com/78700974/182183009-280ef5b4-4918-4e1f-b801-ae2b84ca37dd.svg)
+"
          alt="snake" /></a>
   </div>
