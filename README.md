@@ -1,4 +1,5 @@
-![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/07555c0f-2db0-4444-b3d0-27fa8ef9572f)
+![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/9ab99b5a-6165-4a01-9553-f0e605d2f313)
+
 
 
 <h1 align="center">Hi 👋, I'm Subhadip Maiti</h1>
