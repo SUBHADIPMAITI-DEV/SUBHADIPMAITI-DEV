@@ -1,4 +1,4 @@
-![subhadipm](https://user-images.githubusercontent.com/78700974/175819875-49950ac5-6268-4b2f-8511-bb4feb9dbe99.gif)
+![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/07555c0f-2db0-4444-b3d0-27fa8ef9572f)
 
 
 <h1 align="center">Hi 👋, I'm Subhadip Maiti</h1>
