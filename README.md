@@ -42,9 +42,6 @@ if __name__ == '__main__':
 
 - 📫 How to reach me **dipsubha.info@gmail.com**
 
-<img src="https://github.com/SUBHADIPMAITI-DEV/Digitalwatch/blob/main/digital-watch.gif" alt="Digital Watch">
-
-
 
 
 <h3 align="left">Connect with me:</h3>
