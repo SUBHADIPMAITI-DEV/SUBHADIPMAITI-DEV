@@ -51,7 +51,7 @@ if __name__ == '__main__':
 </p>
 
 <div align="center">
-    <a href="https://1999azzar.github.io/1999AZZAR/">
+    <a href="http://subhadipmaiti.me/">
     <img  src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg"
          alt="snake" /></a>
   </div>
