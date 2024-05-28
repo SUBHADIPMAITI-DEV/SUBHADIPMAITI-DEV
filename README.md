@@ -14,6 +14,7 @@
       <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
     </div>
     </p>
+    
 <div align="center">
   <a href="https://github.com/SUBHADIPMAITI-DEV">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xohh7d2iohjm6lsskana77js6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
@@ -29,8 +30,12 @@ class SubhadipMaiti():
     self.name = "Subhadip Maiti";
     self.username = "@SUBHADIPMAITI-DEV";
     self.location = "Kolkata, India";
+    self.linkedin = "subhadip-maiti)";
     self.twitter = "SubhadipInfo";
-    self.web = "https://github.com/SUBHADIPMAITI-DEV";
+    self.github = "SUBHADIPMAITI-DEV";
+    self.web = "www.subhadipmaiti.tech";
+
+
   
   def __str__(self):
     return self.name
