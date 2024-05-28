@@ -30,7 +30,7 @@ class SubhadipMaiti():
     self.name = "Subhadip Maiti";
     self.username = "@SUBHADIPMAITI-DEV";
     self.location = "Kolkata, India";
-    self.linkedin = "subhadip-maiti)";
+    self.linkedin = "subhadip-maiti";
     self.twitter = "SubhadipInfo";
     self.github = "SUBHADIPMAITI-DEV";
     self.web = "www.subhadipmaiti.tech";
