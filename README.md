@@ -32,7 +32,6 @@ class SubhadipMaiti():
     self.location = "Kolkata, India";
     self.linkedin = "subhadip-maiti";
     self.twitter = "SubhadipInfo";
-    self.github = "SUBHADIPMAITI-DEV";
     self.web = "www.subhadipmaiti.tech";
 
 
