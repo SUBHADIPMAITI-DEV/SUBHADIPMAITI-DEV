@@ -1,7 +1,5 @@
 ![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/9ab99b5a-6165-4a01-9553-f0e605d2f313)
-
-
-
+          
 <h1 align="center">Hi 👋, <br>I'm Subhadip Maiti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="" -->
@@ -11,7 +9,15 @@
     <div align="center">
       <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
       <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-      <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330">
+        <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=f4cf4d&labelColor=282828">
+        <img src="https://img.shields.io/badge/Java-98b982?style=for-the-badge&logo=openjdk&logoColor=98b982&labelColor=282828">
+        <img src="https://img.shields.io/badge/C-98b982?style=for-the-badge&logo=c&logoColor=98b982&labelColor=282828">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=282828">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828">
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6&labelColor=282828">
+        <img src="https://img.shields.io/badge/GitHub-98b982?style=for-the-badge&logo=gitHub&logoColor=white&labelColor=282828">
+        <img src="https://img.shields.io/badge/Amazon_AWS-98b982?style=for-the-badge&logo=amazon-aws&logoColor=ff9c08&labelColor=282828">
     </div>
     </p>
     
@@ -67,4 +73,5 @@ if __name__ == '__main__':
   </div>
 
 
+          
 
