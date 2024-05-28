@@ -57,13 +57,14 @@ if __name__ == '__main__':
 - 📫 How to reach me **service@subhadipmaiti.tech**
 
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828" alt="subhadipinfo"/></a>
+<a href="https://www.linkedin.com/in/subhadip-maiti/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" alt="subhadip.maiti.info"/></a>
+<a href="https://fb.com/subhadip.maiti.info" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=282828" alt="subhadip.maiti.info" /></a>
+<a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
+<a href="https://leetcode.com/u/SubhadipMaiti/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/subhadipinfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhadipinfo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subhadip-maiti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadip.maiti.info" height="30" width="40" /></a>
-<a href="https://fb.com/subhadip.maiti.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhadip.maiti.info" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipsubha_info" height="30" width="40" /></a>
 </p>
 
 <div align="center">
