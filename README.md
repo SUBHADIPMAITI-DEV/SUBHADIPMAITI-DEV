@@ -40,7 +40,7 @@ if __name__ == '__main__':
     </a>
   </div>
 
-- 📫 How to reach me **dipsubha.info@gmail.com**
+- 📫 How to reach me **service@subhadipmaiti.tech**
 
 
 
