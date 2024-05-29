@@ -63,7 +63,6 @@ if __name__ == '__main__':
 <a href="https://fb.com/subhadip.maiti.info" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=282828" alt="subhadip.maiti.info" /></a>
 <a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
 <a href="https://leetcode.com/u/SubhadipMaiti/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
-
 </p>
 
 <div align="center">
@@ -73,8 +72,3 @@ if __name__ == '__main__':
   </div>
 
 
-<div align="center">
-          
-## Some Statistics About Me
-![Subhadip's github stats](https://github-readme-stats.vercel.app/api?username=SUBHADIPMAITI-DEV&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
-</div>
