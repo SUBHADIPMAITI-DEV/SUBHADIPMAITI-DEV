@@ -1,7 +1,7 @@
 ![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/9ab99b5a-6165-4a01-9553-f0e605d2f313)
           
 <h1 align="center">Hi 👋, <br>I'm Subhadip Maiti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India, shaping the digital world one line of code at a time.</h3>
 <!-- <img align="right" alt="coding" width="400" src="" -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipmaiti-dev&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipmaiti-dev" /> </p>
 
