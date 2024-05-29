@@ -74,5 +74,8 @@ if __name__ == '__main__':
   </div>
 
 
+<div align="center">
           
-
+## Some Statistics About Me
+![Subhadip's github stats](https://github-readme-stats.vercel.app/api?username=SUBHADIPMAITI-DEV&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+</div>
