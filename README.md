@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330">
         <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=f4cf4d&labelColor=282828">
         <img src="https://img.shields.io/badge/Java-98b982?style=for-the-badge&logo=openjdk&logoColor=98b982&labelColor=282828">
-        <img src="https://img.shields.io/badge/C-98b982?style=for-the-badge&logo=c&logoColor=98b982&labelColor=282828">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=282828">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828">
         <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6&labelColor=282828">
