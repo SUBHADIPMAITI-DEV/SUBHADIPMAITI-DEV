@@ -29,23 +29,23 @@
 - 🌱 I’m currently learning **Python**
 
 ```python
-class SubhadipMaiti():
+class SubhadipMaiti:
     
-  def __init__(self):
-    self.name = "Subhadip Maiti";
-    self.username = "@SUBHADIPMAITI-DEV";
-    self.location = "Kolkata, India";
-    self.linkedin = "subhadip-maiti";
-    self.twitter = "SubhadipInfo";
-    self.web = "www.subhadipmaiti.tech";
+    def __init__(self):
+        self.name = "Subhadip Maiti"
+        self.username = "@SUBHADIPMAITI-DEV"
+        self.location = "Kolkata, India"
+        self.linkedin = "subhadip-maiti"
+        self.twitter = "SubhadipInfo"
+        self.web = "www.subhadipmaiti.tech"
 
-
-  
-  def __str__(self):
-    return self.name
+    def __str__(self):
+        return self.name
 
 if __name__ == '__main__':
     me = SubhadipMaiti()
+    print(me)
+
 ```
 <div align="center">
     <a href="https://fb.com/subhadip.maiti.info">
