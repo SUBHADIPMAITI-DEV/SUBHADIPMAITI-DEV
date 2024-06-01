@@ -1,4 +1,4 @@
-![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/9ab99b5a-6165-4a01-9553-f0e605d2f313)
+[![subhadipm](https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/assets/78700974/9ab99b5a-6165-4a01-9553-f0e605d2f313)](https://github.com/SUBHADIPMAITI-DEV)
           
 <h1 align="center">Hi 👋, <br>I'm Subhadip Maiti</h1>
 <h3 align="center">A passionate frontend developer from India, shaping the digital world one line of code at a time.</h3>
