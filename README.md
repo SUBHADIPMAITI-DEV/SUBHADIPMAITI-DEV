@@ -7,16 +7,16 @@
 
 <p>
     <div align="center">
-      <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-      <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330">
-        <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=f4cf4d&labelColor=282828">
-        <img src="https://img.shields.io/badge/Java-98b982?style=for-the-badge&logo=openjdk&logoColor=98b982&labelColor=282828">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=005C84&labelColor=282828">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=98b982&labelColor=282828">
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6&labelColor=282828">
-        <img src="https://img.shields.io/badge/GitHub-98b982?style=for-the-badge&logo=gitHub&logoColor=white&labelColor=282828">
-        <img src="https://img.shields.io/badge/Amazon_AWS-98b982?style=for-the-badge&logo=amazon-aws&logoColor=ff9c08&labelColor=282828">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/html.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/css.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/JAVASCRIPT.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/PYTHON.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/java.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/mysql.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/django.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/azure.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/github.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/aws.svg">
     </div>
     </p>
     
@@ -58,11 +58,11 @@ if __name__ == '__main__':
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828" alt="subhadipinfo"/></a>
-<a href="https://www.linkedin.com/in/subhadip-maiti/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" alt="subhadip.maiti.info"/></a>
-<a href="https://fb.com/subhadip.maiti.info" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=282828" alt="subhadip.maiti.info" /></a>
-<a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
-<a href="https://leetcode.com/u/SubhadipMaiti/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=282828" alt="dipsubha_info"/></a>
+<a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/twitter.svg" alt="subhadipinfo"/></a>
+<a href="https://www.linkedin.com/in/subhadip-maiti/" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/linkedin.svg" alt="subhadip.maiti.info"/></a>
+<a href="https://fb.com/subhadip.maiti.info" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/facebook.svg" alt="subhadip.maiti.info" /></a>
+<a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/hackerrank.svg" alt="dipsubha_info"/></a>
+<a href="https://leetcode.com/u/SubhadipMaiti/" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/leetcode.svg" alt="dipsubha_info"/></a>
 </p>
 
 <div align="center">
