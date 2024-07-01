@@ -22,7 +22,7 @@
     
 <div align="center">
   <a href="https://github.com/SUBHADIPMAITI-DEV">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xohh7d2iohjm6lsskana77js6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xohh7d2iohjm6lsskana77js6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </div>
 
