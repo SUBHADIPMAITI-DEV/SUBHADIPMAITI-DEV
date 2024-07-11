@@ -16,7 +16,7 @@
       <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/django.svg">
       <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/azure.svg">
       <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/github.svg">
-      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/aws.svg">
+      <img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/Amazon%20Web%20Services.svg">
     </div>
     </p>
     
@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/twitter.svg" alt="subhadipinfo"/></a>
+<a href="https://twitter.com/subhadipinfo" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/Twitter-1DA1F2.svg" alt="subhadipinfo"/></a>
 <a href="https://www.linkedin.com/in/subhadip-maiti/" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/linkedin.svg" alt="subhadip.maiti.info"/></a>
 <a href="https://fb.com/subhadip.maiti.info" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/facebook.svg" alt="subhadip.maiti.info" /></a>
 <a href="https://www.hackerrank.com/dipsubha_info" target="blank"><img src="https://github.com/SUBHADIPMAITI-DEV/SUBHADIPMAITI-DEV/blob/main/GithubIcons/hackerrank.svg" alt="dipsubha_info"/></a>
